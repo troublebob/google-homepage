@@ -36,12 +36,9 @@ li{
     left: 0;
     bottom:0;
     width: 100%;
-    background-color: gray;
+    background-color: dimgray;
     border-top-width: 1px;
     border-top-color: black;
-}
-footer{
-    background-color: grey;
 }
 a{
     margin-left:5px;
